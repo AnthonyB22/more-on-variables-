@@ -7,5 +7,5 @@ let DistinMiles
 // Get seconds between lighting and thunder secBetween = Get next input
 timeinHours = secBetween / SEC_PER_HOUR 
 DistinMiles = SOUND_SPEED * timeinHours 
-console, log ("Miles from lightning strike: ")
-console, log (DistinMiles)
+console. log ("Miles from lightning strike: ")
+console. log (DistinMiles)
